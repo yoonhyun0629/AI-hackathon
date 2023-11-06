@@ -1,0 +1,155 @@
+오후 5:24:17  [main] 	Initializing Control Panel
+오후 5:24:17  [main] 	Windows Version:  Home  64-bit
+오후 5:24:17  [main] 	XAMPP Version: 7.4.28
+오후 5:24:17  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 5:24:17  [main] 	Running with Administrator rights - good!
+오후 5:24:17  [main] 	XAMPP Installation Directory: "c:\xampp\"
+오후 5:24:17  [main] 	Checking for prerequisites
+오후 5:24:19  [main] 	All prerequisites found
+오후 5:24:19  [main] 	Initializing Modules
+오후 5:24:19  [main] 	The FileZilla module is disabled
+오후 5:24:19  [main] 	The Mercury module is disabled
+오후 5:24:19  [main] 	The Tomcat module is disabled
+오후 5:24:19  [main] 	Starting Check-Timer
+오후 5:24:19  [main] 	Control Panel Ready
+오후 5:24:20  [Apache] 	Attempting to start Apache app...
+오후 5:24:20  [mysql] 	Attempting to start MySQL app...
+오후 5:24:20  [Apache] 	Status change detected: running
+오후 5:24:20  [mysql] 	Status change detected: running
+오후 5:43:16  [Apache] 	Attempting to stop Apache (PID: 10792)
+오후 5:43:16  [Apache] 	Attempting to stop Apache (PID: 5884)
+오후 5:43:16  [Apache] 	Status change detected: stopped
+오후 5:43:16  [mysql] 	Attempting to stop MySQL app...
+오후 5:43:17  [mysql] 	Status change detected: stopped
+오후 5:43:17  [main] 	Deinitializing Modules
+오후 5:43:17  [main] 	Deinitializing Control Panel
+
+오후 4:10:30  [main] 	Initializing Control Panel
+오후 4:10:30  [main] 	Windows Version:  Home  64-bit
+오후 4:10:30  [main] 	XAMPP Version: 7.4.28
+오후 4:10:30  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 4:10:30  [main] 	Running with Administrator rights - good!
+오후 4:10:30  [main] 	XAMPP Installation Directory: "c:\xampp\"
+오후 4:10:30  [main] 	Checking for prerequisites
+오후 4:10:31  [main] 	All prerequisites found
+오후 4:10:31  [main] 	Initializing Modules
+오후 4:10:31  [main] 	The FileZilla module is disabled
+오후 4:10:31  [main] 	The Mercury module is disabled
+오후 4:10:31  [main] 	The Tomcat module is disabled
+오후 4:10:31  [main] 	Starting Check-Timer
+오후 4:10:31  [main] 	Control Panel Ready
+오후 4:10:33  [mysql] 	Attempting to start MySQL app...
+오후 4:10:33  [mysql] 	Status change detected: running
+오후 4:10:33  [Apache] 	Attempting to start Apache app...
+오후 4:10:33  [Apache] 	Status change detected: running
+오후 5:48:41  [Apache] 	Attempting to stop Apache (PID: 20076)
+오후 5:48:41  [Apache] 	Attempting to stop Apache (PID: 13444)
+오후 5:48:41  [Apache] 	Status change detected: stopped
+오후 5:48:41  [mysql] 	Attempting to stop MySQL app...
+오후 5:48:42  [mysql] 	Status change detected: stopped
+오후 5:48:43  [main] 	Deinitializing Modules
+오후 5:48:43  [main] 	Deinitializing Control Panel
+
+오후 2:28:43  [main] 	Initializing Control Panel
+오후 2:28:43  [main] 	Windows Version:  Home  64-bit
+오후 2:28:43  [main] 	XAMPP Version: 7.4.28
+오후 2:28:43  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 2:28:43  [main] 	Running with Administrator rights - good!
+오후 2:28:43  [main] 	XAMPP Installation Directory: "c:\xampp\"
+오후 2:28:44  [main] 	Checking for prerequisites
+오후 2:28:45  [main] 	All prerequisites found
+오후 2:28:45  [main] 	Initializing Modules
+오후 2:28:45  [main] 	The FileZilla module is disabled
+오후 2:28:45  [main] 	The Mercury module is disabled
+오후 2:28:45  [main] 	The Tomcat module is disabled
+오후 2:28:45  [main] 	Starting Check-Timer
+오후 2:28:45  [main] 	Control Panel Ready
+오후 2:28:46  [mysql] 	Attempting to start MySQL app...
+오후 2:28:47  [mysql] 	Status change detected: running
+오후 4:50:02  [Apache] 	Attempting to start Apache app...
+오후 4:50:02  [Apache] 	Status change detected: running
+오후 4:50:03  [Apache] 	Attempting to stop Apache (PID: 25968)
+오후 4:50:03  [Apache] 	Status change detected: stopped
+오후 4:50:03  [mysql] 	Attempting to stop MySQL app...
+오후 4:50:03  [mysql] 	Status change detected: stopped
+오후 4:50:04  [main] 	Deinitializing Modules
+오후 4:50:04  [main] 	Deinitializing Control Panel
+
+오후 11:05:14  [main] 	Initializing Control Panel
+오후 11:05:14  [main] 	Windows Version:  Home  64-bit
+오후 11:05:14  [main] 	XAMPP Version: 7.4.28
+오후 11:05:14  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 11:05:14  [main] 	Running with Administrator rights - good!
+오후 11:05:14  [main] 	XAMPP Installation Directory: "c:\xampp\"
+오후 11:05:14  [main] 	Checking for prerequisites
+오후 11:05:16  [main] 	All prerequisites found
+오후 11:05:16  [main] 	Initializing Modules
+오후 11:05:16  [main] 	The FileZilla module is disabled
+오후 11:05:16  [main] 	The Mercury module is disabled
+오후 11:05:16  [main] 	The Tomcat module is disabled
+오후 11:05:16  [main] 	Starting Check-Timer
+오후 11:05:16  [main] 	Control Panel Ready
+오후 11:05:27  [Apache] 	Attempting to start Apache app...
+오후 11:05:27  [mysql] 	Attempting to start MySQL app...
+오후 11:05:27  [Apache] 	Status change detected: running
+오후 11:05:27  [mysql] 	Status change detected: running
+오전 3:00:44  [Apache] 	Attempting to stop Apache (PID: 27932)
+오전 3:00:44  [Apache] 	Attempting to stop Apache (PID: 28416)
+오전 3:00:45  [mysql] 	Attempting to stop MySQL app...
+오전 3:00:45  [Apache] 	Status change detected: stopped
+오전 3:00:45  [mysql] 	Status change detected: stopped
+오전 3:00:45  [main] 	Deinitializing Modules
+오전 3:00:45  [main] 	Deinitializing Control Panel
+
+오전 3:08:42  [main] 	Initializing Control Panel
+오전 3:08:42  [main] 	Windows Version:  Home  64-bit
+오전 3:08:42  [main] 	XAMPP Version: 7.4.28
+오전 3:08:42  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오전 3:08:42  [main] 	Running with Administrator rights - good!
+오전 3:08:42  [main] 	XAMPP Installation Directory: "c:\xampp\"
+오전 3:08:42  [main] 	Checking for prerequisites
+오전 3:08:44  [main] 	All prerequisites found
+오전 3:08:44  [main] 	Initializing Modules
+오전 3:08:44  [main] 	The FileZilla module is disabled
+오전 3:08:44  [main] 	The Mercury module is disabled
+오전 3:08:44  [main] 	The Tomcat module is disabled
+오전 3:08:44  [main] 	Starting Check-Timer
+오전 3:08:44  [main] 	Control Panel Ready
+오전 3:08:45  [mysql] 	Attempting to start MySQL app...
+오전 3:08:46  [Apache] 	Attempting to start Apache app...
+오전 3:08:46  [Apache] 	Status change detected: running
+오전 3:08:46  [mysql] 	Status change detected: running
+오전 3:23:30  [Apache] 	Attempting to stop Apache (PID: 1820)
+오전 3:23:30  [Apache] 	Attempting to stop Apache (PID: 5168)
+오전 3:23:31  [mysql] 	Attempting to stop MySQL app...
+오전 3:23:31  [Apache] 	Status change detected: stopped
+오전 3:23:31  [mysql] 	Status change detected: stopped
+오전 3:23:31  [main] 	Deinitializing Modules
+오전 3:23:31  [main] 	Deinitializing Control Panel
+
+오전 11:29:43  [main] 	Initializing Control Panel
+오전 11:29:43  [main] 	Windows Version:  Home  64-bit
+오전 11:29:43  [main] 	XAMPP Version: 7.4.28
+오전 11:29:43  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오전 11:29:43  [main] 	Running with Administrator rights - good!
+오전 11:29:43  [main] 	XAMPP Installation Directory: "c:\xampp\"
+오전 11:29:43  [main] 	Checking for prerequisites
+오전 11:29:46  [main] 	All prerequisites found
+오전 11:29:46  [main] 	Initializing Modules
+오전 11:29:46  [main] 	The FileZilla module is disabled
+오전 11:29:46  [main] 	The Mercury module is disabled
+오전 11:29:46  [main] 	The Tomcat module is disabled
+오전 11:29:46  [main] 	Starting Check-Timer
+오전 11:29:46  [main] 	Control Panel Ready
+오전 11:29:47  [Apache] 	Attempting to start Apache app...
+오전 11:29:48  [Apache] 	Status change detected: running
+오전 11:29:48  [mysql] 	Attempting to start MySQL app...
+오전 11:29:48  [mysql] 	Status change detected: running
+오전 5:07:51  [Apache] 	Attempting to stop Apache (PID: 21448)
+오전 5:07:51  [Apache] 	Attempting to stop Apache (PID: 20688)
+오전 5:07:51  [Apache] 	Status change detected: stopped
+오전 5:07:51  [mysql] 	Attempting to stop MySQL app...
+오전 5:07:52  [mysql] 	Status change detected: stopped
+오전 5:07:52  [main] 	Deinitializing Modules
+오전 5:07:52  [main] 	Deinitializing Control Panel
+
