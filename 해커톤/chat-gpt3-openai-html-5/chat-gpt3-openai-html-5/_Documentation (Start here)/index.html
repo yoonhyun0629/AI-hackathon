@@ -1,0 +1,213 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Documentation</title>
+    <link rel="stylesheet" href="css/foundation.min.css" />
+    <link rel="stylesheet" href="css/custom.css" />
+    <script src="js/vendor/modernizr.js"></script>
+  </head>
+  <body>
+
+<br/>
+<div class="row">
+  <div class="large-12 columns text-center">
+    <img src="img/logo.png" alt="Polar projects" title="Polar projects">
+  </div>
+  
+
+  <div class="large-12 columns text-center">
+    <br/>
+    <h5 class="color-blue"><b>Chat GPT - Open AI - HTML5 Template - Documentation by "Polar Games"</b></h5>
+    <br/>
+  </div>
+
+
+  <div class="large-4 medium-4 columns box-author">
+  <p>Created: 16/02/2023<br/>
+    By: Willian Zarpellon<br/>
+    Email: willian@polargames.com.br</p>
+  </div>
+  
+
+  <div class="large-8 medium-8 columns">
+    <p><b>Thank you for purchasing my product.</b> <br/><br/>If you have any questions that are beyond the scope of this help file, please feel free to email <a target="_blank" href="mailto:willian@polargames.com.br">willian@polargames.com.br</a>. Thanks so much!</p>
+  </div>
+
+</div><!--row-->
+
+<br/>
+
+<div class="row" id="menus">
+  <div class="large-12 columns"><h4 class="color-blue">Table of Contents</h4></div>
+  <div class="large-12 columns">
+  <ul class="format-list">
+    <li><a href="#step1">A. Create your API Key on the openAI website</a></li>
+    <li><a href="#step2">B. Configure your environment</a></li>
+    <li><a href="#step3">C. Customizing the images</a></li>
+    <li><a href="#step4">D. Customizing the characters</a></li>
+    <li><a href="#step5">E. Badwords</a></li>
+  </ul>
+  </div>
+</div>
+
+<br/>
+
+<div class="row">
+
+  <div class="large-12 columns" id="step1">
+    <h5 class="color-blue"><b>A) Create your API Key on the openAI website - <a href="#menus">TOP</a></b></h5>
+  </div>
+
+  <div class="large-12 columns">
+      <p>Create an account and generate your <strong>API_KEY</strong>. <br>
+      Go to <a target="_blank" href="https://platform.openai.com/account/api-keys">https://platform.openai.com/account/api-keys</a></p> 
+      <br/>
+      <img src="img/key.jpg" alt="img" class="th">
+      <br><br>
+      <h4>To store your api key, you have <strong style="color:red">2 options</strong>:</h4>
+      <p>
+        <strong style="color:red">Using a key on the frontend</strong><br>
+        You can put your API Key in a json file, without the need to use a server.<br>
+        The advantage is that you don't need a server.<br>
+        The disadvantage is that your API KEY is exposed, and other people can see it.<br>
+      </p>
+      <p>Then access the file.json file (html-files/json/config.json) and put your key in the <strong>API_KEY</strong> field between the quotes</p>
+      <br>
+      <img src="img/configure-json.jpg" alt="img" class="th">
+      <hr>
+      <p>
+        <strong style="color:red">Using a key on the backend</strong><br>
+        The second option, you can use a php file to store your key, so your key will be protected on the server<br>
+        To use this option, you must set the "use_php_api" field to true in the config.json file.<br>
+        <strong>Note: To use this option you will need a host with PHP 7 or higher</strong><br>
+      </p>
+      <br>
+      <img src="img/configure-json-true.jpg" alt="img" class="th">
+      <br><br>
+      <p>
+        After modifying the config.json file, also modify the php file with your key<br>
+      </p>
+      <br>      
+      <img src="img/configure-php.jpg" alt="img" class="th">
+
+
+  </div>
+
+</div><!--row-->
+
+
+<br/>
+
+<div class="row">
+
+  <div class="large-12 columns" id="step2">
+    <h5 class="color-blue"><b>B) Configure your environment - <a href="#menus">TOP</a></b></h5>
+  </div>
+
+  <div class="large-12 columns">
+      <p>The CORS (Cross-Origin Resource Sharing) is a security measure that browsers implement to protect users against malicious attacks that can occur when a website attempts to access resources from another site. In other words, CORS is a security policy that browsers use to prevent a site from accessing information from another site without authorization.</p>
+      <br>
+      <p>When you try to run the index.html file locally and it makes a request to another file such as config.json, the browser may prevent the request from being completed due to the CORS security policy. This is because the browser is trying to protect you against possible malicious attacks.</p>
+      <br>
+      <p>To solve this problem, it is recommended to run the application on a local server on your machine such as WAMP, XAMPP or similar. Alternatively, you can upload the application to your website using FTP.</p><br>
+
+
+      <strong>After configuring your environment, you can access index.html in your browser and test</strong>
+      <p>Open the index.html file in your browser.</p> 
+      <br/>
+      <img src="img/img1.jpg" alt="img" class="th">
+  </div>
+
+</div><!--row-->
+
+
+<br/>
+
+<div class="row">
+
+  <div class="large-12 columns" id="step3">
+    <h5 class="color-blue"><b>C) Customizing the project images - <a href="#menus">TOP</a></b></h5>
+  </div>
+
+  <div class="large-12 columns">
+      <p>The animal images are in the thumb folder, in SVG format, you can add images in the format you want, We recommend images with a height of less than 600px, and png or svg. q</p>
+      <br/><img src="img/customizate.jpg" alt="img" class="th">
+  </div>
+
+</div><!--row-->
+
+<br/>
+
+
+<div class="row">
+  <div class="large-12 columns" id="step4">
+    <h5 class="color-blue"><b>D) Customizing the characters - <a href="#menus">TOP</a></b></h5>
+  </div>
+
+  <div class="large-12 columns">
+    <p>You can configure the behavior of the characters by opening the config.json file</p> 
+    <br>
+    <ul>
+      <li><b>name:</b> Name of the character that will appear in the chat</li>
+      <li><b>image:</b> Character image path</li>
+      <li><b>description:</b> Description of the character that appears in the carousel</li>
+      <li><b>welcome_message:</b> Initial message that the character will send when opening the chat</li>
+      <li><b>display_welcome_message:</b> Configures whether the initial message will appear in the chat</li>
+      <li><b>expert:</b> Label that says what the character is expert at</li>
+      <li><b>background_thumb_color:</b> Character thumbnail background color</li>
+      <li><b>training:</b> Says what the character will be like, how he will behave, what tone he will use in his answer, write everything here in first person</li>
+
+    </ul>
+    <img src="img/img2.jpg"  class="th">
+
+    <br>
+    <br>
+    <p><b>To add a new character:</b><br>
+    add a comma in the penultimate json node, and just copy and paste a new node of json characters, and write their names and instructions.
+    </p>
+    <br>
+    <img src="img/img3.jpg"  class="th">
+  </div>
+
+</div><!--row-->
+
+<br/>
+
+<div class="row">
+  <div class="large-12 columns" id="step5">
+    <h5 class="color-blue"><b>E) Badwords - <a href="#menus">TOP</a></b></h5>
+  </div>
+
+  <div class="large-12 columns">
+    <p>
+      In the config.json file you can define if you want to use a filter for badwords.<br>
+      This filter is great if you want to prevent the user from typing certain words in the chat.
+      <br>
+
+      (In config.json: "filter_badwords": true)
+      <br>
+      You can change list of badwords in json/badwords.json file.
+    </p>
+  </div>
+
+</div><!--row-->
+
+<br/>
+
+
+<div class="row">
+  <div class="large-12 columns">
+   <h5>Polar projects - Willian Zarpellon</h5>
+  </div>
+
+</div><!--row-->
+
+
+
+  </body>
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+  </body>
+</html>

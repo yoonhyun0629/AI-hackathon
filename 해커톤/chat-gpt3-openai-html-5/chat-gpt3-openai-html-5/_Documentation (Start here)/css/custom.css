@@ -1,0 +1,38 @@
+body{
+	background: url(../img/geometry2.png);
+}
+
+.box-author{
+	background: #163665;
+	color: #FFF;
+	padding: 20px;
+}
+
+.color-blue{
+	color: #163665;
+}
+
+.format-list{
+	list-style: none;
+	margin: 0;
+}
+
+.format-list li{
+	font-size: 18px;
+	color: #163665;
+}
+
+p{
+	margin: 0;
+}
+
+.row{
+    background: #FFF;
+    padding: 10px;
+    box-shadow: 1px 1px 8px 0px #CCC;
+    max-width: 70em;
+}
+
+.color-red{
+	color: #c0392b;
+}
